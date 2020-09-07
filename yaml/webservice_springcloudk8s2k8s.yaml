@@ -7,11 +7,12 @@ metadata:
   labels:
     svc: lb-springcloudk8s-web
 spec:
-  type: NodePort
+  #type: NodePort
+  type: ClusterIP
   ports:
     - port: 8015
       targetPort: 8013
-      nodePort: 30093
+      #nodePort: 30093
   selector:
     container: lb-springcloudk8s-web
 
