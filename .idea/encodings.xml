@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/account-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apigateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configdemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/discovery" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eruakeserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/k8sgatewaydemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-k8s-account-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-k8s-web-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudk8sconfigdemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudk8sdiscovery" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-service" charset="UTF-8" />
+  </component>
+</project>

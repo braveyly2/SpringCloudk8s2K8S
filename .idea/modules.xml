@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/account-service/account-service.iml" filepath="$PROJECT_DIR$/account-service/account-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apigateway/k8sgatewaydemo.iml" filepath="$PROJECT_DIR$/apigateway/k8sgatewaydemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lw.iml" filepath="$PROJECT_DIR$/lw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configdemo/springcloudk8sconfigdemo.iml" filepath="$PROJECT_DIR$/configdemo/springcloudk8sconfigdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery/springcloudk8sdiscovery.iml" filepath="$PROJECT_DIR$/discovery/springcloudk8sdiscovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-service/web-service.iml" filepath="$PROJECT_DIR$/web-service/web-service.iml" />
+    </modules>
+  </component>
+</project>
