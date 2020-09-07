@@ -1,0 +1,20 @@
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  name: ingress-production-env
+  namespace: ns-springcloudk8s
+  annotations:
+     nginx.ingress.kubernetes.io/rewrite-target: /
+spec:
+  rules:
+  - host: "travel.qunaer.com"
+    http:
+      paths:
+      - path: /web
+        backend:
+          serviceName: springcloudk8s-apigw-svc
+          servicePort: 8015
+      - path: /app
+        backend:
+          serviceName: springcloudk8s-app-apigw-svc
+          servicePort: 8015
